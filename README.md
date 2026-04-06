@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Darkblack44">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=6E40C9&center=true&vCenter=true&width=520&lines=JavaScript+%7C+Electron+%7C+Data+Visualization;Building+desktop+tools+that+solve+real+problems;Self-taught+developer+%E2%80%94+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=6E40C9&center=true&vCenter=true&width=520&lines=JavaScript+%7C+Electron+%7C+Data+Visualization;Building+desktop+tools+that+solve+real+problems;Self-taught+developer+%E2%80%94+always+building+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -62,26 +62,52 @@ const darkblack44 = {
 
 ## Featured Public Projects
 
-<div align="center">
-
-<!-- 
-  NOTA: Reemplaza YOUR_VERCEL_URL con tu URL de Vercel (ver instrucciones al final).
-  Ejemplo: https://github-readme-stats-darkblack44.vercel.app
--->
-
-<a href="https://github.com/Darkblack44/Gobierno-de-Datos">
-  <img height="140" src="https://YOUR_VERCEL_URL.vercel.app/api/pin/?username=Darkblack44&repo=Gobierno-de-Datos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=00d4ff&text_color=c9d1d9&border_radius=10" />
-</a>
-&nbsp;
-<a href="https://github.com/Darkblack44/Mapa-de-Calor-2">
-  <img height="140" src="https://YOUR_VERCEL_URL.vercel.app/api/pin/?username=Darkblack44&repo=Mapa-de-Calor-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=00d4ff&text_color=c9d1d9&border_radius=10" />
-</a>
-&nbsp;
-<a href="https://github.com/Darkblack44/proyectos">
-  <img height="140" src="https://YOUR_VERCEL_URL.vercel.app/api/pin/?username=Darkblack44&repo=proyectos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=00d4ff&text_color=c9d1d9&border_radius=10" />
-</a>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>📊 <a href="https://github.com/Darkblack44/Gobierno-de-Datos">Gobierno de Datos</a></h3>
+      <p>Marco conceptual y práctico para la gestión, calidad, seguridad y uso estratégico de datos en organizaciones.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JS"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS"/>
+        <img src="https://img.shields.io/github/last-commit/Darkblack44/Gobierno-de-Datos?style=flat-square&color=6e40c9&label=last+commit" alt="last commit"/>
+      </p>
+      <p>
+        <a href="https://darkblack44.github.io/Gobierno-de-Datos/">
+          <img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-00d4ff?style=flat-square" alt="Live Demo"/>
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🗺️ <a href="https://github.com/Darkblack44/Mapa-de-Calor-2">Mapa de Calor</a></h3>
+      <p>Mapa de calor interactivo con visualización de datos geográficos usando JavaScript vanilla.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JS"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML"/>
+        <img src="https://img.shields.io/github/last-commit/Darkblack44/Mapa-de-Calor-2?style=flat-square&color=6e40c9&label=last+commit" alt="last commit"/>
+      </p>
+      <p>
+        <a href="https://darkblack44.github.io/Mapa-de-Calor-2/">
+          <img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-00d4ff?style=flat-square" alt="Live Demo"/>
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>📈 <a href="https://github.com/Darkblack44/proyectos">Proyectos</a></h3>
+      <p>Dashboard interactivo de datos de Colombia con mapas, gráficas y procesamiento de datos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JS"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS"/>
+        <img src="https://img.shields.io/github/last-commit/Darkblack44/proyectos?style=flat-square&color=6e40c9&label=last+commit" alt="last commit"/>
+      </p>
+      <p>
+        <a href="https://darkblack44.github.io/proyectos/">
+          <img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-00d4ff?style=flat-square" alt="Live Demo"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -119,11 +145,15 @@ const darkblack44 = {
 
 <div align="center">
 
-<!-- Stats principal -->
-<img src="https://YOUR_VERCEL_URL.vercel.app/api?username=Darkblack44&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=00d4ff&text_color=c9d1d9&ring_color=6e40c9&rank_icon=github&border_radius=10" height="185"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darkblack44&theme=tokyonight" height="175" alt="Stats"/>
 &nbsp;
-<!-- Top Languages -->
-<img src="https://YOUR_VERCEL_URL.vercel.app/api/top-langs/?username=Darkblack44&layout=compact&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8&border_radius=10" height="185"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darkblack44&theme=tokyonight" height="175" alt="Repos per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darkblack44&theme=tokyonight" height="175" alt="Most Commit Language"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darkblack44&theme=tokyonight" width="100%" alt="Profile Details"/>
 
 </div>
 
@@ -131,7 +161,6 @@ const darkblack44 = {
 
 <div align="center">
 
-<!-- Streak Stats (servicio independiente, sin necesidad de Vercel) -->
 <img src="https://streak-stats.demolab.com?user=Darkblack44&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=00d4ff&currStreakLabel=6e40c9&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak"/>
 
 </div>
@@ -142,14 +171,6 @@ const darkblack44 = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkblack44&theme=tokyo-night&bg_color=0d1117&color=6e40c9&line=00d4ff&point=6e40c9&area=true&area_color=6e40c915&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2090%20Days&days=90&radius=6" alt="Activity Graph"/>
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Darkblack44&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -169,48 +190,3 @@ const darkblack44 = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,60:1a0533,100:0d1117&height=120&section=footer"/>
 </div>
-
----
-
-<!--
-=============================================================
-  SETUP: Cómo activar las Stats Cards (github-readme-stats)
-=============================================================
-
-Las tarjetas de Stats y Pin de repos requieren tu propia
-instancia en Vercel para evitar el rate limiting del endpoint
-público. Sigue estos pasos (5-10 minutos):
-
-PASO 1 — Fork del repositorio
-  → Ve a: https://github.com/anuraghazra/github-readme-stats
-  → Haz clic en "Fork" (arriba a la derecha)
-  → Confirma el fork en tu cuenta (Darkblack44)
-
-PASO 2 — Crear un Personal Access Token (PAT)
-  → Ve a: GitHub → Settings → Developer Settings
-         → Personal access tokens → Tokens (classic)
-  → "Generate new token (classic)"
-  → Nombre: "vercel-stats-readme"
-  → Selecciona scope: ✅ read:user
-  → Genera y COPIA el token (empieza con ghp_...)
-
-PASO 3 — Desplegar en Vercel
-  → Ve a: https://vercel.com/new
-  → "Import Git Repository" → selecciona tu fork de github-readme-stats
-  → En "Environment Variables" agrega:
-      Name:  GITHUB_TOKEN
-      Value: [pega tu PAT del paso 2]
-  → Haz clic en "Deploy"
-
-PASO 4 — Obtener tu URL de Vercel
-  → Una vez deployado, copia tu URL (ej: https://github-readme-stats-darkblack44.vercel.app)
-
-PASO 5 — Actualizar este README
-  → Reemplaza TODAS las ocurrencias de:
-      YOUR_VERCEL_URL.vercel.app
-    con tu URL real (sin https://), por ejemplo:
-      github-readme-stats-darkblack44.vercel.app
-
-  Puedes hacer Ctrl+H en VS Code para buscar y reemplazar.
-=============================================================
--->
