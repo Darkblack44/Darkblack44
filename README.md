@@ -257,6 +257,10 @@ const darkblack44 = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkblack44&theme=tokyo-night&bg_color=0d1117&color=6e40c9&line=00d4ff&point=6e40c9&area=true&area_color=6e40c915&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2090%20Days&days=90&radius=6" alt="Activity Graph"/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Darkblack44/Darkblack44/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
 ---
 
 <div align="center">
