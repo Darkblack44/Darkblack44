@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,100:6e40c9&height=200&section=header&text=DarwinDev44&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Desktop%20%2B%20Web%20Applications&descSize=16&descAlignY=58&descAlign=50&descColor=8b949e" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,100:6e40c9&height=200&section=header&text=Darwin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Desktop%20%2B%20Web%20Applications&descSize=16&descAlignY=58&descAlign=50&descColor=8b949e" alt="header"/>
 </div>
 
 <p align="center">
@@ -230,10 +230,8 @@ const darwindev44 = {
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarwinDev44&theme=tokyonight" height="175" alt="Stats"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarwinDev44&theme=tokyonight" height="175" alt="Repos per Language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarwinDev44&theme=tokyonight" height="175" alt="Most Commit Language"/>
+&nbsp;&nbsp;
+<img src="https://quickchart.io/chart?bkg=%230d1117&w=380&h=200&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%2044%25%22%2C%22Python%2021.3%25%22%2C%22TypeScript%2018.4%25%22%2C%22CSS%209.5%25%22%2C%22HTML%205%25%22%2C%22Other%201.8%25%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B44.0%2C21.3%2C18.4%2C9.5%2C5.0%2C1.8%5D%2C%22backgroundColor%22%3A%5B%22%23F7DF1E%22%2C%22%233776AB%22%2C%22%233178C6%22%2C%22%231572B6%22%2C%22%23E34F26%22%2C%22%23444444%22%5D%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23c9d1d9%22%2C%22font%22%3A%7B%22size%22%3A11%7D%2C%22padding%22%3A10%2C%22boxWidth%22%3A12%7D%7D%2C%22datalabels%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22cutout%22%3A%2260%25%22%7D%7D" height="175" alt="Languages"/>
 
 <br/><br/>
 
