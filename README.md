@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,100:6e40c9&height=200&section=header&text=Darkblack44&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Desktop%20%2B%20Web%20Applications&descSize=16&descAlignY=58&descAlign=50&descColor=8b949e" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,100:6e40c9&height=200&section=header&text=DarwinDev44&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Desktop%20%2B%20Web%20Applications&descSize=16&descAlignY=58&descAlign=50&descColor=8b949e" alt="header"/>
 </div>
 
 <p align="center">
-  <a href="https://github.com/Darkblack44">
+  <a href="https://github.com/DarwinDev44">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=6E40C9&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%E2%80%94+Electron+%2B+React+%2B+Node.js;Building+institutional+systems+that+automate+real+workflows;TypeScript+%7C+JavaScript+%7C+SQL+%7C+Desktop+%26+Web" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Darkblack44&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=DarwinDev44&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Darkblack44?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/DarwinDev44?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Collaborate-00c853?style=for-the-badge&labelColor=0d1117" alt="Open to Collaborate"/>
 </p>
@@ -21,7 +21,7 @@
 ## About Me
 
 ```js
-const darkblack44 = {
+const darwindev44 = {
     role       : "Fullstack Developer",
     focus      : ["Institutional Systems", "Desktop Applications", "Data Visualization", "Process Automation"],
     frontend   : ["React 18", "TypeScript", "Material UI", "HTML5", "CSS3", "Chart.js"],
@@ -81,7 +81,7 @@ const darkblack44 = {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 <a href="https://github.com/Darkblack44/Sistema-de-Elaboracion-de-Diplomas">Sistema de Elaboración de Diplomas</a></h3>
+      <h3 align="center">🎓 <a href="https://github.com/DarwinDev44/Sistema-de-Elaboracion-de-Diplomas">Sistema de Elaboración de Diplomas</a></h3>
       <p align="center"><strong>v7.0.0</strong> · Aplicación de escritorio institucional</p>
       <p>Sistema completo para la generación automatizada de diplomas universitarios. Procesa archivos Excel con datos de graduados, normaliza información mediante <em>fuzzy matching</em> (Levenshtein), exporta CSV y se integra directamente con <strong>Adobe Illustrator</strong> vía automatización COM para la generación e impresión de diplomas.</p>
       <p align="center">
@@ -132,7 +132,7 @@ const darkblack44 = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📊 <a href="https://github.com/Darkblack44/Gobierno-de-Datos">Gobierno de Datos</a></h3>
+      <h3 align="center">📊 <a href="https://github.com/DarwinDev44/Gobierno-de-Datos">Gobierno de Datos</a></h3>
       <p align="center">Marco de gestión de datos institucional</p>
       <p>Plataforma web interactiva que documenta el marco conceptual y práctico de gobierno de datos: gestión, calidad, seguridad y uso estratégico de la información en organizaciones. Incluye validación de datos y visualización de métricas.</p>
       <p align="center">
@@ -141,13 +141,13 @@ const darkblack44 = {
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
       </p>
       <p align="center">
-        <a href="https://darkblack44.github.io/Gobierno-de-Datos/">
+        <a href="https://darwindev44.github.io/Gobierno-de-Datos/">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=flat-square" alt="Live Demo"/>
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🗺️ <a href="https://github.com/Darkblack44/Mapa-de-Calor-2">Mapa de Calor Interactivo</a></h3>
+      <h3 align="center">🗺️ <a href="https://github.com/DarwinDev44/Mapa-de-Calor-2">Mapa de Calor Interactivo</a></h3>
       <p align="center">Visualización geoespacial de datos</p>
       <p>Mapa de calor interactivo para la visualización de datos geográficos con capas de información dinámicas, renderizado en tiempo real y filtros configurables. Desarrollado en JavaScript vanilla.</p>
       <p align="center">
@@ -156,7 +156,7 @@ const darkblack44 = {
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
       </p>
       <p align="center">
-        <a href="https://darkblack44.github.io/Mapa-de-Calor-2/">
+        <a href="https://darwindev44.github.io/Mapa-de-Calor-2/">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=flat-square" alt="Live Demo"/>
         </a>
       </p>
@@ -164,14 +164,14 @@ const darkblack44 = {
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>📈 <a href="https://github.com/Darkblack44/proyectos">Dashboard Colombia</a></h3>
+      <h3>📈 <a href="https://github.com/DarwinDev44/proyectos">Dashboard Colombia</a></h3>
       <p>Dashboard interactivo de datos de Colombia con mapas geográficos, gráficas dinámicas y procesamiento de datasets públicos.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
       </p>
       <p>
-        <a href="https://darkblack44.github.io/proyectos/">
+        <a href="https://darwindev44.github.io/proyectos/">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=flat-square" alt="Live Demo"/>
         </a>
       </p>
@@ -229,15 +229,15 @@ const darkblack44 = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darkblack44&theme=tokyonight" height="175" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarwinDev44&theme=tokyonight" height="175" alt="Stats"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darkblack44&theme=tokyonight" height="175" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarwinDev44&theme=tokyonight" height="175" alt="Repos per Language"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darkblack44&theme=tokyonight" height="175" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarwinDev44&theme=tokyonight" height="175" alt="Most Commit Language"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darkblack44&theme=tokyonight" width="100%" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarwinDev44&theme=tokyonight" width="100%" alt="Profile Details"/>
 
 </div>
 
@@ -245,7 +245,7 @@ const darkblack44 = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Darkblack44&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=00d4ff&currStreakLabel=6e40c9&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=DarwinDev44&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=00d4ff&currStreakLabel=6e40c9&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
@@ -254,11 +254,11 @@ const darkblack44 = {
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkblack44&theme=tokyo-night&bg_color=0d1117&color=6e40c9&line=00d4ff&point=6e40c9&area=true&area_color=6e40c915&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2090%20Days&days=90&radius=6" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarwinDev44&theme=tokyo-night&bg_color=0d1117&color=6e40c9&line=00d4ff&point=6e40c9&area=true&area_color=6e40c915&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2090%20Days&days=90&radius=6" alt="Activity Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Darkblack44/Darkblack44/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/DarwinDev44/DarwinDev44/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
@@ -271,8 +271,8 @@ const darkblack44 = {
 
 <br/>
 
-<a href="https://github.com/Darkblack44">
-  <img src="https://img.shields.io/badge/GitHub-%40Darkblack44-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/DarwinDev44">
+  <img src="https://img.shields.io/badge/GitHub-%40DarwinDev44-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
